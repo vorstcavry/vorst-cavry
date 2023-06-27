@@ -131,13 +131,6 @@ Tambahakn apikey open ai pada global.keyopenai agar chatgpt berfungsi
 
 ## My Sosmed
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ahlulmukh)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/ahlulmukh)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ahlulmukh)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-%808080?style=flat-square&logo=Whatsapp&logoColor=white)](https://s.id/1Gqvt)
-[![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=email&logoColor=white)](mailto:ahluldev20@gmail.com)
-<a href="https://github.com/ahlulmukh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-
 ## Donate Me
 
 ### Pulsa
