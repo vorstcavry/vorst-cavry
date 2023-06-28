@@ -1,7 +1,7 @@
 const fs = require("fs");
 const chalk = require("chalk");
 global.creAtor = "yournumber@s.whatsapp.net";
-global.owner = ["yournumber"];
+global.owner = ["6285726996330"];
 global.ownerNumber = ["yournumber@s.whatsapp.net"];
 global.nomerOwner = "6283833949495";
 global.namabotnya = "AbotMD";
